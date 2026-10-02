@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Block nothing — everything is public
+Disallow:
+
+# Sitemap location
+Sitemap: https://gnt-downloader.pages.dev/sitemap.xml
+
+# Crawl delay (optional, respectful crawling)
+Crawl-delay: 1
